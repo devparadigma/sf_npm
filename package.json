@@ -1,0 +1,22 @@
+{
+  "name": "sf_npm_project",
+  "version": "1.0.0",
+  "description": "Practical work",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log('Hello SF')"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devparadigma/sf_npm.git"
+  },
+  "author": "Dmitrii",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devparadigma/sf_npm/issues"
+  },
+  "homepage": "https://github.com/devparadigma/sf_npm#readme",
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
+}
